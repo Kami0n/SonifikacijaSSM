@@ -1,3 +1,3 @@
 # SonifikacijaSSM
 
-Projekt pri predmetu SSM (Senzorski sistemi in multimedija)
+Projekt sonifikacije podatkov pri predmetu SSM (Senzorski sistemi in multimedija)
